@@ -21,7 +21,7 @@ npm install
 buat file .env DI FOLDER
 
 ```bash
-PRIVATE_KEYS=["your private key 1"]
+PRIVATE_KEYS=["input pk nya"]
 ```
 
 ### 4. Run script
